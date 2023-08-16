@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "64151810329",
+    "firebase_url": "https://talkapp-38bb4-default-rtdb.firebaseio.com",
+    "project_id": "talkapp-38bb4",
+    "storage_bucket": "talkapp-38bb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64151810329:android:01a3273a6f3de0f18a1588",
+        "android_client_info": {
+          "package_name": "bpplatform.howtalk.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64151810329-cm9cmeel6df1bq828nh0piapgppmf72q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bpplatform.howtalk.chat",
+            "certificate_hash": "f541d191bcfdebb35a4997cce1a7b90e09e25b39"
+          }
+        },
+        {
+          "client_id": "64151810329-2158dcusiqatbd2mq0ho5eljt3dokorg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkwQTGz4cglbLHn7zalT43ew6P2dQY5Lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64151810329-2158dcusiqatbd2mq0ho5eljt3dokorg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
